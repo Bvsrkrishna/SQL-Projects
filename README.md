@@ -40,4 +40,4 @@ This repository contains SQL practice projects and database analysis exercises d
 Refer to the individual SQL scripts and project folders in this repository for source code and implementation details.
 
 ## Conclusion
-This repository demonstrates practical SQL learning and database querying skills that form a foundation for Data Analyst, BI Analyst, and Data Engineer roles.
+This repository demonstrates practical SQL learning and database querying skills that form a foundation for Data Analyst, BI Analyst and Data Engineer roles.
